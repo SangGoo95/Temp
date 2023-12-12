@@ -11,6 +11,7 @@ namespace SG
         void Update()
         {
             transform.position += Vector3.one;
+            Debug.Log("변경사항");
         }
     }
 
