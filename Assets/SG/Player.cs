@@ -12,6 +12,11 @@ namespace SG
         {
             transform.position += Vector3.one;
             Debug.Log("변경사항");
+
+            if(Input.GetKeyDown(KeyCode.Space))
+            {
+                Debug.Log("공격");
+            }
         }
     }
 
