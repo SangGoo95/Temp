@@ -8,7 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         Debug.Log("TEST AAA");
-        Debug.Log("SSSSS");
+        transform.position = Vector3.zero;
     }
 
     // Update is called once per frame
