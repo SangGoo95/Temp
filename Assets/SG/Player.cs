@@ -17,6 +17,7 @@ namespace SG
             {
                 Debug.Log("°ø°Ý");
                                 Debug.Log("TEST");
+                Debug.Log("TESTA");
             }
         }
     }
