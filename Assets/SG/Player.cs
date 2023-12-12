@@ -18,7 +18,7 @@ namespace SG
                 Debug.Log("°ø°Ý");
                 Debug.Log("TEST");
                 Debug.Log("123456");
-                Debug.Log("DDDD");
+                Debug.Log("TESTSTST");
             }
         }
     }
