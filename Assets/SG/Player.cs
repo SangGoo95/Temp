@@ -16,7 +16,7 @@ namespace SG
             if(Input.GetKeyDown(KeyCode.Space))
             {
                 Debug.Log("°ø°Ý");
-                                Debug.Log("Attack");
+                                Debug.Log("TEST");
             }
         }
     }
