@@ -11,11 +11,12 @@ namespace SG
         void Update()
         {
             transform.position += Vector3.one;
-            Debug.Log("º¯°æ»çÇ×");
+            Debug.Log("ÂºÂ¯Â°Ã¦Â»Ã§Ã‡Ã—");
 
             if(Input.GetKeyDown(KeyCode.Space))
             {
-                Debug.Log("°ø°İ");
+                Debug.Log("Â°Ã¸Â°Ã");
+                                Debug.Log("Attack");
             }
         }
     }
